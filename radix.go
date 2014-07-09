@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-  "strconv"
+	"strconv"
 )
 
 // Finds the largest number in an array
